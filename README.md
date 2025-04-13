@@ -76,4 +76,4 @@ Automated workflows between GitHub and Jira using Python scripts.
 
 ---
 
-⚡ *"Passionate about leveraging technology to solve real-world problems and drive innovation!"* ⚡
+⚡ *"Passionate about leveraging technology to solve real-world problems and drive innovation!!"* ⚡
