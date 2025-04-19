@@ -1,6 +1,6 @@
-# 👨‍💻 Venkata Rahul Chinta - Aspiring DevOps Engineer 🚀
+# 👨‍💻 Venkata Rahul Chinta - DevOps Enthusiast & Practitioner 🚀
 
-Welcome to my GitHub profile! I'm **Venkata Rahul Chinta**, an **DevOps Enthusiast & Practitioner** with a passion for cloud technologies, automation, and delivering scalable solutions. 🌐 Based in St Louis, Missouri, USA, I bring hands-on experience in multi-cloud environments, CI/CD pipelines, and software development. Let's build something amazing together! 💻✨
+Welcome to my GitHub profile! I'm **Venkata Rahul Chinta**, an **Aspiring DevOps Engineer** with a passion for cloud technologies, automation, and delivering scalable solutions. 🌐 Based in St Louis, Missouri, USA, I bring hands-on experience in multi-cloud environments, CI/CD pipelines, and software development. Let's build something amazing together! 💻✨
 
 ---
 
