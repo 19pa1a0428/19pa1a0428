@@ -62,6 +62,7 @@ Automated workflows between GitHub and Jira using Python scripts.
 
 ## 📜 Certifications
 
+- **Building LLM Applications using Prompt Engineering** by Nvidia
 - **AWS Academy Cloud Architecting** 🌩️  
 - **Docker Foundations Professional Certificate** 🐳  
 - **Python for Everybody Specialization** by Coursera 🐍  
